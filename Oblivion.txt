@@ -1,0 +1,657 @@
+Missões Principais :
+
+Duzentos anos se passaram desde a Crise do Oblivion , e agora é o ano 4E 201 . O Alto Rei de Skyrim está morto, morto por Ulfric Stormcloak em um duelo. A Guerra Civil assola a terra. Uma facção rebelde conhecida como Stormcloaks deseja que Skyrim se separe do Império . No entanto, sua causa não é apoiada por todas as pessoas e líderes da terra; muitos ainda apoiam o Exército Imperial . A guerra chegou a um impasse. Este cisma é o evento final em uma profecia dos Elder Scrolls . Prevê-se que este conflito levará ao retorno doDragões , liderados por Alduin , o Deus Nórdico da Destruição, também conhecido como Devorador de Mundos.
+
+Act I
+Unbound
+Before the Storm
+Bleak Falls Barrow
+Dragon Rising
+The Way of the Voice
+The Horn of Jurgen Windcaller
+
+Act II
+A Blade in the Dark
+Diplomatic Immunity
+A Cornered Rat
+Alduin's Wall
+The Throat of the World
+Elder Knowledge
+Alduin's Bane
+
+Act III
+Season Unending
+The Fallen
+Paarthurnax
+The World-Eater's Eyrie
+Sovngarde
+Dragonslayer
+Epilogue
+
+*Missões Facção :
+
+-Dark Brotherhood
+Delayed Burial
+Innocence Lost
+With Friends Like These...
+Sanctuary
+Mourning Never Comes
+Whispers in the Dark
+The Silence Has Been Broken
+Bound Until Death
+Breaching Security
+The Cure for Madness
+Recipe for Disaster
+To Kill an Empire
+Death Incarnate
+Hail Sithis!
+
+-Contratos
+
+Contract: Kill Beitild
+Contract: Kill Narfi
+Contract: Kill Ennodius Papius
+Contract: Kill Lurbuk
+Contract: Kill Hern
+Contract: Kill Deekus
+Contract: Kill Ma'randru-jo
+Contract: Kill Anoriath
+Contract: Kill Agnis
+Contract: Kill Maluril
+Contract: Kill Helvard
+Contract: Kill Safia
+
+-Missões Ocionais :
+Locate the Assassin of Old
+Honor Thy Family
+Dark Brotherhood Forever
+
+-Outras Missões :
+Destroy the Dark Brotherhood!
+Where You Hang Your Enemy's Head
+
+-Colégio de Winterhold
+First Lessons
+Under Saarthal
+Hitting the Books
+Good Intentions
+Revealing the Unseen
+Containment
+The Staff of Magnus
+The Eye of Magnus
+
+-Side quests
+Arniel's Endeavor
+Out of Balance
+J'zargo's Experiment
+Onmund's Request
+Brelyna's Practice
+Rejoining the College
+Forgotten Names
+
+-Radiant quests
+Fetch Me That Book!
+Shalidor's Insights
+Aftershock
+Tolfdir the Absent-Minded
+Enchanting Pick-Up
+Restocking Soul Gems
+
+-Broken quests
+The Missing Apprentices
+
+-Master-level spell quests
+Alteration Ritual Spell
+Conjuration Ritual Spell
+Destruction Ritual Spell
+Illusion Ritual Spell
+Restoration Ritual Spell
+
+-The Companions
+Take Up Arms
+Proving Honor
+The Silver Hand
+Blood's Honor
+Purity of Revenge
+Glory of the Dead
+
+-Side quests
+Animal Extermination
+Hired Muscle
+Trouble in Skyrim
+Family Heirloom
+Escaped Criminal
+Rescue Mission
+Stealing Plans
+Striking the Heart
+Retrieval
+Totems of Hircine
+Purity
+Dragon Seekers
+
+-Thieves Guild
+A Chance Arrangement
+Taking Care of Business
+Loud and Clear
+Dampened Spirits
+Scoundrel's Folly
+Speaking With Silence
+Hard Answers
+The Pursuit
+Trinity Restored
+Blindsighted
+Darkness Returns
+Under New Management
+
+-Side quests
+Imitation Amnesty
+Summerset Shadows
+Silver Lining
+The Dainty Sload
+Delivery
+No Stone Unturned
+
+-Radiant quests
+The Bedlam Job
+The Fishing Job
+The Numbers Job
+The Burglary Job
+The Heist Job
+The Shill Job
+The Sweep Job
+
+-The Blades
+Paarthurnax
+Rebuilding the Blades
+Dragon Hunting
+
+-Bards College
+Tending the Flames
+Find Rjorn's Drum
+Find Finn's Lute
+Find Pantea's Flute
+
+-Civil War
+
+-Imperial Legion
+Joining the Legion
+The Jagged Crown
+Message to Whiterun
+Battle for Whiterun
+Reunification of Skyrim
+​A False Front
+The Battle for Fort Dunstad
+Compelling Tribute
+The Battle for Fort Greenwall
+The Battle for Fort Sungard
+Rescue from Fort Kastav
+The Battle for Fort Neugrad
+The Battle for Fort Amol
+Battle for Windhelm
+
+-Stormcloaks
+Joining the Stormcloaks
+The Jagged Crown
+Message to Whiterun
+Battle for Whiterun
+Liberation of Skyrim
+Rescue from Fort Neugrad
+Compelling Tribute
+The Battle for Fort Sungard
+The Battle for Fort Greenwall
+A False Front
+The Battle for Fort Snowhawk
+The Battle for Fort Hraggstad
+Battle for Solitude
+
+-Daedric Quests
+Prince	Quest	Location	Hold
+Azura	The Black Star	Shrine of Azura	Winterhold Hold
+Boethiah	Boethiah's Calling	Sacellum of Boethiah	Eastmarch
+Clavicus Vile	A Daedra's Best Friend	Falkreath	Falkreath Hold
+Hermaeus Mora	Discerning the Transmundane	Septimus Signus' Outpost	Winterhold Hold
+Hircine	Ill Met by Moonlight	Falkreath	Falkreath Hold
+Malacath	The Cursed Tribe	Largashbur	The Rift
+Mehrunes Dagon	Pieces of the Past	Dawnstar	The Pale
+Mephala	The Whispering Door	Dragonsreach	Whiterun Hold
+Meridia	The Break of Dawn	Statue to Meridia	Haafingar
+Molag Bal	The House of Horrors	Markarth	The Reach
+Namira	The Taste of Death	Markarth	The Reach
+Peryite	The Only Cure	Shrine to Peryite	The Reach
+Sanguine	A Night to Remember	Whiterun	Whiterun Hold
+Sheogorath	The Mind of Madness	Blue Palace	Haafingar
+Vaermina	Waking Nightmare	Dawnstar	The Pale
+Nocturnal	Thieves Guild*	Thieves Guild Questline*	The Rift
+
+-Dungeon Quests
+Quest name	Location	Hold
+Medresi Dran and the Wandering Dead	Angarvunde	The Rift
+A Love Beyond Death	Ansilvund	Eastmarch
+Lost to the Ages	Arkngthamz	The Reach
+A Return To Your Roots	Blackreach	The Pale
+The Affairs of Hagravens	Blind Cliff Cave	The Reach
+Repentance	Darklight Tower	The Rift
+Extracting an Argonian	Darkwater Pass	The Rift
+Siege on the Dragon Cult	Forelhost	The Rift
+Frostflow Abyss	Frostflow Lighthouse	Winterhold Hold
+The Pale Lady	Frostmere Crypt	The Pale
+A Scroll For Anska	High Gate Ruins	The Pale
+Ancestral Worship	Hillgrund's Tomb	Eastmarch
+Coming of Age	Ironbind Barrow	Winterhold Hold
+Forgetting about Fjola	Mistwatch	The Rift
+Hunter and Hunted	Moss Mother Cavern	Falkreath Hold
+The Lost Expedition	Nchuand-Zel	The Reach
+Telrav's Request	Nilheim	The Rift
+Rannveig's Fast	Rannveig's Fast	Hjaalmarch
+The Legend of Red Eagle	Rebel's Cairn	The Reach
+Lifting the Shroud	Shroud Hearth Barrow	The Rift
+Ysolda's Shipment	Sleeping Tree Camp	Whiterun Hold
+The Savior of Selveni Nethri	Southfringe Sanctum	Falkreath Hold
+Infiltration	Treva's Watch	The Rift
+Evil in Waiting	Valthume	The Reach
+Silenced Tongues	Volunruud	The Pale
+Ashore in a Sea of Ghosts	Yngol Barrow	Eastmarch
+
+-Outras Missões :
+
+-Eastmarch-Windhelm-Side quests
+Blood on the Ice
+Repairing the Phial
+The White Phial
+Rise in the East
+
+-Miscellaneous quests
+Harsh Master
+Find the Thalmor Assassin
+Argonian Dock Workers
+Shahvee's Amulet
+Delivery
+Dungeon Delving
+That Was Always There
+
+-Narzulbur-Miscellaneous quests
+The Forgemaster's Fingers
+
+-Kynesgrove-Miscellaneous quests
+Find Roggi Knot-Beard's Ancestral Shield
+Darkwater Crossing
+
+-Miscellaneous quests
+Deliver Sondas's Note to Quintus
+Kill the Bandit Leader
+Falkreath Hold
+Falkreath
+Miscellaneous quests
+Dark Ancestor
+Deliver Berit's Ashes to Runil
+Find Runil's Journal
+Hunter and Hunted
+Kill the Bandit Leader
+Rare Gifts
+Speak to Lod
+Steal the Private Letter for Dengeir
+Angi's Camp
+Miscellaneous quests
+Composure, Speed, and Precision
+Haafingar
+Solitude
+Side quests
+Lights Out!
+The Man Who Cried Wolf
+The Wolf Queen Awakened
+Miscellaneous quests
+Return to Grace
+The Spiced Wine
+Fit for a Jarl
+A Few Words with You
+No News is Good News
+Elisif's Tribute
+Dragon Bridge
+Miscellaneous quests
+Dragon's Breath Mead
+Hjaalmarch
+Morthal
+Side quests
+Laid to Rest
+Rising at Dawn
+Miscellaneous quests
+Rare Gifts
+Folgunthur
+Side quests
+Forbidden Legend
+The Pale
+Dawnstar
+Miscellaneous quests
+Rare Gifts
+Visit the Museum in Dawnstar
+Salty Sea-Dogs
+Mine Ore
+Dungeon Delving
+Quest all Drunks Have
+The Reach
+Markarth
+​​​​Side quests
+The Lost Expedition
+The Heart of Dibella
+The Forsworn Conspiracy
+No One Escapes Cidhna Mine
+Miscellaneous quests
+Skilled Apprenticeship
+The Steward's Potion
+Coated in Blood
+Nimhe, the Poisoned One
+Buy Dwarven artifact
+A Few Words with You
+Delivery to Calcelmo
+Search and Seizure
+Dibella's Shine
+Recover Hrolfdir's Shield
+Quest all Drunks Have
+Quest all Beggars Have
+Karthwasten
+Miscellaneous Quests
+Sanuarach Mine
+Soljund's Sinkhole
+Miscellaneous quests
+Soljund's Sinkhole
+Left Hand Mine
+Miscellaneous quests
+Kolskeggr Mine
+Salvius Farm
+Miscellaneous quests
+Rogatus's Letter
+Old Hroldan Inn
+Miscellaneous quests
+The Ghost of Old Hroldan
+Dushnikh Yal
+Miscellaneous quests
+Gharol's Message
+The Rift
+Riften
+Side quests
+Promises to Keep
+Unfathomable Depths
+The Book of Love
+Miscellaneous quests
+Retrieve Grimsever
+The Lover's Requital
+Truth Ore Consequences
+Ingun's Task
+The Raid
+Supply and Demand
+Sealing the Deal
+Stoking the Flames
+Ice Cold
+Hunt and Gather
+Caught Red Handed
+Ringmaker
+Special Delivery
+Froki's Shack
+Side quests
+Kyne's Sacred Trials
+Heartwood Mill
+Miscellaneous quests
+Flight or Fight
+Ivarstead
+Miscellaneous quests
+Grin and Bear It
+The Straw that Broke
+Climb The Steps
+Last Vigil
+Side Quests
+The Ebony Warrior
+Merryfair Farm
+Miscellaneous quests
+Bow to the Master
+Sarethi Farm
+Miscellaneous quests
+Smooth Jazbay
+Shor's Stone
+Miscellaneous quests
+Mine or Yours
+Special Delivery
+Whiterun Hold
+Whiterun
+Side quests
+Missing in Action
+In My Time of Need
+The Blessings of Nature
+Miscellaneous quests
+Andurs' Arkay Amulet
+Greatsword for a Great Man
+Dungeon Delving
+Rare Gifts
+A Few Words with You
+Bullying Braith
+Argonian Ale Extraction
+Salt For Arcadia
+Quest all Drunks Have
+Quest all Beggars Have
+Riverwood
+Side quests
+The Golden Claw
+Miscellaneous quests
+A Lovely Letter
+Quest all Drunks Have
+Quest all Beggars Have
+Rorikstead
+Miscellaneous quests
+Erik the Slayer
+Winterhold Hold
+Winterhold
+Miscellaneous quests
+Dungeon Delving
+Quest all Drunks Have
+A Few Words with You
+Some Light Theft
+Mine Ore
+Drowned Sorrows
+Bounty quests
+These can be given by innkeepers when asked about work or rumors. Any of the Jarls or stewards can give these when asked for work. The Bounty Note identifies the type and location of the bounty.
+
+Forsworn
+Kill the leader of Bilegulch Mine
+Kill the leader of Bruca's Leap Redoubt
+Kill the leader of Dragon Bridge Overlook
+Kill the leader of Druadach Redoubt
+Kill the leader of Lost Knife Hideout
+Kill the leader of Pinemoon Cave
+Kill the leader of Red Eagle Redoubt
+Kill the leader of Stony Creek Cave
+Kill the leader of Deepwood Redoubt
+Bandits
+Kill the bandit leader at Broken Oar Grotto
+Kill the bandit leader at Four Skull Lookout
+Kill the bandit leader at Halted Stream Camp
+Kill the bandit leader at Nilheim
+Kill the bandit leader at Redoran's Retreat
+Kill the bandit leader at Rift Watchtower
+Kill the bandit leader at Silent Moons Camp
+Kill the bandit leader at Winter War
+Kill the bandit leader at Valtheim Towers
+Giants
+Kill the giant at Bleakwind Basin
+Kill the giant at Broken Limb Camp
+Kill the giant at Cradlecrush Rock
+Kill the giant at Secunda's Kiss
+Kill the giant at Sleeping Tree Camp
+Kill the giant at Guldun Rock
+Kill the giant at Steamcrag Camp
+Kill the giant at Blizzard Rest
+Dragons
+Kill the dragon at Ancient's Ascent
+Kill the dragon at Autumnwatch Tower
+Kill the dragon at Bonestrewn Crest
+Kill the dragon at Dragontooth Crater
+Kill the dragon at Eldersblood Peak
+Kill the dragon at Lost Tongue Overlook
+Kill the dragon at Mount Anthor
+Kill the dragon at Northwind Summit
+Kill the dragon at Shearpoint
+Kill the dragon at Skyborn Altar
+Global
+A Few Words with You
+Delivery
+Gather Wheat
+Quest all Drunks Have
+Rare Gifts
+Some Light Theft
+Fight! Fight!
+Creation Club quests
+Quest name	Location	Hold
+Forgotten Seasons
+Forgotten Seasons	Runoff Caverns	The Reach
+The Dwarven Crown	Runoff Caverns	The Reach
+The Dwarven Horse	Runoff Caverns	The Reach
+Trivia
+Conflicting quests
+Conflicting quests involve those that prevent other quests from being cleared, and those which bar you from acquiring a full reward from another quest.
+First quest	Second quest	Reason
+The Straw that Broke	Dark Brotherhood contract: Kill Narfi	As soon as you start Kill Narfi, you will be unable to start or complete The Straw that Broke.
+Hearthfire: Build your Falkreath home	Dark Brotherhood contract: Kill Helvard	Killing Helvard may make it impossible to raise Siddgeir's disposition enough to sell you a plot of land in Falkreath. This can be overcome if at any time the Stormcloaks take over and replace Siddgeir as Jarl, otherwise you miss out on a house and some achievements/trophies. You must side with the Stormcloaks to trigger this, for more details see the Civil War article.
+The Spiced Wine	Bound Until Death	Initiating quest 2 will render it impossible to complete quest 1.
+Blood on the Ice	Mourning Never Comes	During quest 2, you are given an extra reward for killing Nilsine Shatter Shield. Doing this will cause her mother to kill herself. This can cause a fair amount of problems with quest progression, so it is best to complete quest 1 first.
+Mourning Never Comes	Lost to the Ages	During quest 2 you are required to trek through Raldbthar, where Alain Dufont lives. If you kill him before starting quest 1, you cannot obtain the bonus reward in that quest. Fortunately, he is never hostile, unless provoked, so you can simply bypass him.
+Kill the Bandit Leader for Ahtar	Lights Out!	During quest 2 you are required to trek through Broken Oar Grotto, where Captain Hargar lives. If you kill him before starting quest 1, you will never be able to start that quest and be unable to recruit a potential follower.
+The Taste of Death	Civil War	If Markarth is handed to the Stormcloaks, quest 1 is nullified.
+Compelling Tribute (Stormcloaks)	Civil War	If Markarth is handed to the Stormcloaks, quest 1 is nullified.
+Delayed Burial	With Friends Like These...	Completing quest 2 will nullify quest 1.
+Season Unending	Civil War	Completing the Civil War questline for either side (Imperial or Stormcloak) will nullify quest 2.
+
+
+Reinos :
+
+---------Solitude-Dawnstar--Winterhold
+Markarth-Morthal--Whiterun--Windhelm
+------------------Falkreath-Riften
+
+Avisos : 
+1- Missão *With Friend Like These* = Não mate Astrid, se matar não terá como entrar na Dark Brotherhood
+
+*Acessórios :
+
+Amuleto Zenithar = Santuário Zenithar perto de Riften
+
+*Armas :
+
+Blade of Woe = Missão Death Incarnate
+Chillredn = Entre na Thieves Guild e faça todas missões ( fazer antes do Nível 46 )
+Dragonbane = Missão *Alduin's Wall*
+Gauldur Blackblade = Missão *Forbidden Legend ( fazer após o nível 36 )
+Mace of Molag Bal = Missão *House or Horrors*
+Mehrune's Razor = Missão *Pieces of the Past*
+Miraak's Sword = DLC da Ilha de Solstheim
+Soulrender e Bloodscythe = Nível 36 + livro *Deathbrand* ( encontrando em Tel Mithryn ou Raven Rock Temple )
+
+*Armadura :
+
+*Clases :
+
+-Mage = High Elf, Wood Elf, Dark Elf e Breton
+-Thief = Argonian e Kajiit
+-Warrior = Nord, Orcs, Redguards e Imperiais
+
+-Dinheiro :
+1- Cortar madeira e Vender para os Inns, cada peça é 50 gold
+2- Mercenário, 100 de gold por missão, 500 dps que aparecer Dragões
+3- Roubo
+4- Casar, gera 100 de gold por dia, pode acumular
+5- Pilhar
+6- Alquimia
+-Flechas 
+Encontre um NPC que está sempre praticando arquearia contra um alvo e roube suas flechas, trocando-as por uma flecha de alta qualidade. O NPC irá então atirar diversas flechas daquele tipo no alvo, permitindo que você acumule flechas boas de graça.
+
+-Evoluir Rápido :
+
+Aumentando a “Illusion Magic” rapidamente
+
+1-Compre a magia "Muffle" para aumentar a habilidade "Illusion". Essa magia pode ser utilizada logo cedo e tem um profundo impacto no nível de "Illusion Magic". Ela está disponível para ser comprada em vários locais; o mais fácil de se acessar é na cidade de Whiterun, em Dragonsreach, com o personagem Farengar.
+
+2-Use a magia "Muffle" em si mesmo uma vez atrás da outra. Assim que os efeitos passarem, use-a novamente.
+
+3-Use a função "Wait" para esperar uma hora quando a magicka acabar. Ela será rapidamente recarregada, permitindo que invoque a magia "Muffle" novamente.
+
+4-Repita até que alcance o nível de "Illusion" desejado. Isso não deve demorar muito, já que a magia aumenta rapidamente o nível da habilidade.
+
+-Picareta do Notch - Easter Egg do Minecraft
+Garganta do Mundo
+
+-Prisão de Winterhold = The Chill
+Ser preso por um guarda de Winterhold
+
+*Raças: 
+
+Vantagem : High Elf, Breton e Orc
+Estratégia : Nord, Dark Elf, Khajiit e RedGuard
+
+-Argonian ( Ótimo para Guerreiros )
+Light Armor
+50% Resistência a Doenças
+Respira de baixo da água
+Poder : 1x ao dia
+Regenera vida 10x mais rápido
+
+-Breton ( Raça Defensiva )
+25% Resistência Natural a Mágica
+Poder : 1x ao Dia
+Absorve 50% Spell que é jogado em você
+Conjuration, Alteration, Illusion e Restoration
+
+-Dark Elf ( Ótimo para Vampiros )
+Light Armor
+50% Resistência a Fogo
+Poder : 1x ao Dia
+Fire Cloak por 60 seg
+Destruction, Alteration e Illusion
+
+-Fury ( òtimo para Magos )
+Corre e Pula mais alto
+
+-High Elf ( Ótimo para Magos )
+Light Armor
+50 de Magicka
+Poder uma vez ao dia
+Regenera Magicka 25% mais rápido
+Começa com Spell
+
+-Imperial ( Ótimo para Bandidos )
+Arma de 1 mão + Escudo
+Heavy Armor
+Acha mais Ouro
+Poder : 1x ao dia
+Pessoas ao redor ficam calmas
+
+-Khajiit ( Ótimo para Lutador ou Bandido )
+Arma de 1 mão ou Arco
++15 Dano com Punho
+Visão Nortuno : Ilimitado
+
+-Nord ( Ótimo para Guerreiros )
+Arma de 2 mãos 
+Heavy Armor
+50% Resistência a Gelo
+Poder : 1x ao Dia
+Inimigos por perto correm
+
+-Orcs ( Ótimo para Guerreiros )
+Arma de 1 Mão + Escudo ou Arma de 2 Maõs
+Nenhuma passiva
+Por 60 seg Dobra o dano e recebe metade do Dano Físico
+
+-Redguard ( Ótimo para Arma de 2 mãos )
+Arma de 1 mão
+50% Resistência a Veneno
+Poder : 1x ao dia
+Regenera Vigo 50% mais rápido durante 60 seg
+
+-Wood Elf
+Light Armor
+50% Resistência a Veneno e Doença
+Poder : 1x ao dia
+Controla animais ao redor por 60 segundos
+
+*Vampirismo = Como se curar
+1- Converse com Falion em Morthal
+2- Siga até Whiterun e converse com o mago na corte de Jarl
+3- Procure algum vilão, elimine ele e aprisione sua alma com o feitiço
+4- Retorne a Falion
